@@ -1,0 +1,20 @@
+{
+	"name": "miniframework",
+	"require":{
+		"php": ">=7.0"
+	},
+	"author":[
+	{
+		"name": "Gleison Batista de sousa",
+		"email": "gleison.sousa@ifto.edu.br"
+	}
+	],
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/",
+			"MF\\": "vendor/MF/"
+		}
+	}
+
+}
+

@@ -1,0 +1,13 @@
+# RewriteRule App/Views/index/sobreNos.phtml
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^(.*)$ index.phtml?url=$1 [QSA,L]
+
+#DirectoryIndex App/Views/index/sobreNos.phtml
+
+
+
+

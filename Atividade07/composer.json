@@ -1,0 +1,15 @@
+{
+  "name": "Atividade07",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=7.0"
+  },
+  "authors": [{"name": "Gabriel", "email": "gabrielpveras98@gmail.com"}],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App",
+      "MF\\": "vendor/MF"
+    }
+  }
+}
+

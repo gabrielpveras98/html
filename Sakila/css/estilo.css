@@ -1,0 +1,98 @@
+/*TAG's*/
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+
+/*Classes*/
+.coluna-1 {
+    width: 8.33%;
+}
+
+.coluna-2 {
+    width: 16.66%;
+}
+
+.coluna-3 {
+    width: 25%;
+}
+
+.coluna-4 {
+    width: 33.33%;
+}
+
+.coluna-5 {
+    width: 41.66%;
+}
+
+.coluna-6 {
+    width: 50%;
+}
+
+.coluna-7 {
+    width: 58.33%;
+}
+
+.coluna-8 {
+    width: 66.66%;
+}
+
+.coluna-9 {
+    width: 75%;
+}
+
+.coluna-10 {
+    width: 83.33%;
+}
+
+.coluna-11 {
+    width: 91.66%;
+}
+
+.coluna-12 {
+    width: 100%;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+[class*="coluna-"] {
+    float: left;
+    padding: 15px;
+}
+
+.header {
+    background-color: #24ff9c;
+    color: #000000;
+    padding: 15px;
+    opacity: 0.8;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    min-width: 100px;
+}
+
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #66e8f8;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.menu li > a{
+    color: #ffffff;
+    text-underline: none;
+}
+
+.menu li:hover {
+    background-color: aquamarine;
+}

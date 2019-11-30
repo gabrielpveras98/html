@@ -1,0 +1,16 @@
+div.header{
+    border-style: solid;
+    color: red;
+    margin: 25px 25px 25px 0px;
+    padding: 100px 100px 100px 550px;
+    width: 600px;
+}
+
+div.coluna{
+    border-style: solid;
+    color: blue;
+    margin: 25px 75px 75px 0px;
+    float: left;
+    padding: 250px 100px 400px 100px ;
+}
+

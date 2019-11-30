@@ -13,7 +13,11 @@
     <input type="text" name="matricula" id="matricula"><br>
     <br>
     <label for="curso">Curso</label>
-    <input type="text" name="curso" id="curso"><br>
+    <select id="curso" name="curso">
+        <option value="si">Sistemas de informação</option>
+        <option value="gti">GTI</option>
+        <option value="es">Engenharia de sistemas</option>
+    </select><br>
     <br>
     <input type="submit" name="Cadastrar" value="Cadastrar">
 </form>

@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dddddd;
+}
+
+#corpo{
+    width: 900px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#corpo > h1{
+    background-color: #eeeeee;
+}
+
+#corpo > a{
+    color: black;
+}

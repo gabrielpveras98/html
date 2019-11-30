@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a59d5a1e-c9f6-482f-8f1d-bbf169221fe9" name="Default Changelist" comment="Projeto php">
+      <change afterPath="$PROJECT_DIR$/../Atividade13/conexao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade13/estilo/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade13/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade13/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade13/questao09/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade13/questao10/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula11/aula11php.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula11/sistema/cadastro_usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula11/sistema/conexao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula11/sistema/formulario_usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoEmVideo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoEmVideo/18-array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CursoEmVideo/aula05.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EnviarFotos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EnviarFotos/testes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sakila/css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sakila/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sakila/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sakila/imagens/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sakila/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/css/principal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/emulador.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/historia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/imagens/SleepingForest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/imagens/criarte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/imagens/p01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/imagens/p02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/imagens/sleep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/sistemaos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/sobrenos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testes/videos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividade05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividade05/css/principal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atividade05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../correios/consulta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../correios/logado.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Locadora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aside.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadastro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cidades.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controler/controle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fale.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/foto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/locadora.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inserir_filmes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promocoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sobre.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/AcionarNetflix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/15.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/Aula 04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/Aula04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/Aula08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/Aula08.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aula09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aula09.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aula11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aula11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aula13-tabuada.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aula13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aula13.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/aulas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/funcao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/testes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/tt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../olamundo/tt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php_mysql/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_css/fotos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_css/specs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_fonts/bubblegum-sans-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_fonts/computer-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/botao-enviar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/det-bateria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/det-camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/det-tela.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/det-touch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/especificacoes-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/especificacoes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/fotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/galeria-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/galeria-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/galeria-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/galeria-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/galeria-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/galeria-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-esquema-marcado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-esquema.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-logo-grd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-logo-med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-logo-peq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-oculos-preto-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-oculos-preto-grd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-oculos-preto-med.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-oculos-preto-peq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-quadro-homem-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-quadro-homem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/glass-quadro-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/icone-contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/icone-endereco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/icone-mensagem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/icone-pagamento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/jornal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/lampada-acesa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/lampada-apagada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/lampada-quebrada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/logo-google-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/mao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/multimidia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/radio-tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/video-mini01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/video-mini02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/video-mini03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_imagens/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_interface/00-divisoes-semanticas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_interface/01-index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_interface/02-specs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_interface/03-fotos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_interface/04-multimidia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_interface/05-fale-conosco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_javascript/audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_javascript/funcoes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_media/2009-lovers-carvings-bibio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_media/getting-started.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_media/how-it-feels.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_media/one-day.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_textos/fale-conosco-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_textos/fotos-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_textos/google-glass-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_textos/index-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_textos/multimidia-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/_textos/specs-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/fale-conosco.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/fotos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/glass-oculos-preto-peq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/google-glass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/multimidia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/specs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-glass-html5/teste.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/cadastrado.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/contato.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/120348.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/5cd2027d54afb04cc1f5138fd9fdef12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/foto01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/foto02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/foto03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/foto04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/fotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/mulheres-lindas-de-bone_300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/principal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/quem_somos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/thumb-1920-252679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/imagens/videos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/logado.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/quemsomos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoHTML/videos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste_de_usabilidade livre/imagens/Screenshot from 2019-05-14 17-04-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste_de_usabilidade/imagens/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste_django/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste_django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste_django/.idea/teste_django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste_django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/Listas_e_imagens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/barras.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/botoes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/estilos/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/estilos/exercicio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/exercicio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/formularios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/icones.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/imagens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/imagens/bug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/imagens/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/imagens/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/jumbotron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/labels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/pagina_completa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/paragrafo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/principal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/processa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/recursos/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webdesignudemy/tabela.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/.idea/projeto-glass-html5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/.idea/wireframe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_css/fotos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_css/specs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_fonts/bubblegum-sans-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_fonts/computer-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/botao-enviar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/det-bateria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/det-camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/det-tela.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/det-touch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/especificacoes-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/especificacoes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/fotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/galeria-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/galeria-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/galeria-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/galeria-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/galeria-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/galeria-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-esquema-marcado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-esquema.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-logo-grd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-logo-med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-logo-peq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-oculos-preto-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-oculos-preto-grd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-oculos-preto-med.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-oculos-preto-peq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-quadro-homem-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-quadro-homem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/glass-quadro-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/icone-contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/icone-endereco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/icone-mensagem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/icone-pagamento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/jornal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/lampada-acesa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/lampada-apagada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/lampada-quebrada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/logo-google-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/mao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/multimidia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/radio-tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/video-mini01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/video-mini02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/video-mini03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_imagens/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_interface/00-divisoes-semanticas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_interface/01-index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_interface/02-specs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_interface/03-fotos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_interface/04-multimidia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_interface/05-fale-conosco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_javascript/audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_javascript/funcoes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_media/2009-lovers-carvings-bibio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_media/getting-started.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_media/how-it-feels.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_media/one-day.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_textos/fale-conosco-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_textos/fotos-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_textos/google-glass-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_textos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_textos/multimidia-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/_textos/specs-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/fale-conosco.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/fotos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/glass-oculos-preto-peq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/google-glass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/multimidia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wireframe/specs.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Locadora" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="178" column="1" lean-forward="true" selection-start-line="178" selection-start-column="1" selection-end-line="178" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usuario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inserir_filmes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="bootstrap" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>menu</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/php/footer.php" />
+        <option value="$PROJECT_DIR$/php/head.php" />
+        <option value="$PROJECT_DIR$/modelo.html" />
+        <option value="$PROJECT_DIR$/php/header.php" />
+        <option value="$PROJECT_DIR$/css/estilo.css" />
+        <option value="$PROJECT_DIR$/head.php" />
+        <option value="$PROJECT_DIR$/promocoes.php" />
+        <option value="$PROJECT_DIR$/sobre.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/novos.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/nav.php" />
+        <option value="$PROJECT_DIR$/fale.php" />
+        <option value="$PROJECT_DIR$/controler/controle.php" />
+        <option value="$PROJECT_DIR$/scripts/scripts.js" />
+        <option value="$PROJECT_DIR$/aside.php" />
+        <option value="$PROJECT_DIR$/filme.php" />
+        <option value="$PROJECT_DIR$/locar.php" />
+        <option value="$PROJECT_DIR$/cidades.php" />
+        <option value="$PROJECT_DIR$/cadastro.php" />
+        <option value="$PROJECT_DIR$/inserir_filmes.php" />
+        <option value="$PROJECT_DIR$/css/estilos.css" />
+        <option value="$PROJECT_DIR$/css/estilos.css" />
+        <option value="$PROJECT_DIR$/usuario.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-2" />
+    <option name="width" value="1922" />
+    <option name="height" value="1083" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Locadora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locadora" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Locadora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="locadora" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imagens" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imagens" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/recursos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php (1)">
+    <configuration name="index.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Locadora/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/novo/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="locadora" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php (1)" />
+        <item itemvalue="PHPUnit.locadora" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a59d5a1e-c9f6-482f-8f1d-bbf169221fe9" name="Default Changelist" comment="" />
+      <created>1556759558583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556759558583</updated>
+      <workItem from="1556759559667" duration="973000" />
+      <workItem from="1557433736789" duration="4092000" />
+      <workItem from="1558042478013" duration="186000" />
+      <workItem from="1558975583756" duration="12074000" />
+      <workItem from="1559061138618" duration="17015000" />
+      <workItem from="1559149276040" duration="15963000" />
+      <workItem from="1559323161486" duration="571000" />
+      <workItem from="1559341219642" duration="1735000" />
+      <workItem from="1559509931202" duration="657000" />
+      <workItem from="1559511428644" duration="3842000" />
+      <workItem from="1559582679845" duration="644000" />
+      <workItem from="1559598866112" duration="639000" />
+      <workItem from="1559669883382" duration="2817000" />
+      <workItem from="1559672753716" duration="3162000" />
+      <workItem from="1559756636069" duration="7154000" />
+      <workItem from="1559774159602" duration="256000" />
+      <workItem from="1559780588576" duration="8000" />
+      <workItem from="1559842574718" duration="1461000" />
+      <workItem from="1559861811549" duration="1299000" />
+      <workItem from="1560002936811" duration="336000" />
+      <workItem from="1560003380624" duration="172000" />
+      <workItem from="1560007116490" duration="3452000" />
+      <workItem from="1560035302248" duration="1546000" />
+      <workItem from="1560446516625" duration="1580000" />
+      <workItem from="1560462220466" duration="599000" />
+      <workItem from="1560549089569" duration="184000" />
+      <workItem from="1561229650840" duration="8586000" />
+      <workItem from="1561292925328" duration="5803000" />
+      <workItem from="1561314736298" duration="1014000" />
+      <workItem from="1561317770666" duration="822000" />
+      <workItem from="1561322052045" duration="2450000" />
+      <workItem from="1561385703616" duration="3906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="locadora - 2019.05.09 at 17h 47m 09s.xml">
+      <configuration name="locadora" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="locadora - 2019.05.09 at 17h 48m 29s.xml">
+      <configuration name="locadora" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104998000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="29" width="1368" height="740" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32978722" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49832776" visible="true" weight="0.44604862" />
+      <window_info id="Structure" order="2" sideWeight="0.50167227" side_tool="true" weight="0.37917933" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.050167225" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32943144" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32943144" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32943144" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3283582" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32978722" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32978722" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49832776" visible="true" weight="0.3839572" />
+      <window_info id="Structure" order="2" sideWeight="0.50167227" side_tool="true" weight="0.37917933" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.050167225" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32943144" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32943144" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32943144" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3283582" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto php" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/npm.js" />
+    <entry file="file://$PROJECT_DIR$/modelo.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/../webdesignudemy/recursos/bootstrap-3.3.7-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="6547" column="18" lean-forward="true" selection-start-line="6547" selection-start-column="18" selection-end-line="6547" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estilo.css" />
+    <entry file="file://$PROJECT_DIR$/sobre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promocoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/locadora.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.php" />
+    <entry file="file://$PROJECT_DIR$/novos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/controle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="94" column="61" selection-start-line="94" selection-start-column="61" selection-end-line="94" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="50" column="67" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="50" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cidades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="40" column="52" lean-forward="true" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inserir_filmes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aside.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="93" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="178" column="1" lean-forward="true" selection-start-line="178" selection-start-column="1" selection-end-line="178" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

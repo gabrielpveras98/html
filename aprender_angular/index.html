@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <meta charset="UTF-8">
+    <title>introdução</title>
+</head>
+<body>
+    <div ng-app=""><!-- ng-app Define um aplicativo angularJS. -->
+        <p>Name: <input type="text" ng-model="name"></p><!-- ng-model associa o valor dos controles HTML (input, select, textarea) aos dados do aplicativo. -->
+        <p>{{name}}</p>
+        <p ng-bind="name"></p><!-- ng-bind associa os dados do aplicativo à visualização HTML. -->
+        <div ng-init="primeiroNome='Gabriel'"><!-- ng-init inicializa as variáveis ​​de aplicativo AngularJS. -->
+            <p>Meu nome é <span ng-bind="primeiroNome"></span></p>
+        </div>
+        <p>Expressões</p>
+        <p><i>Minha primeira expressão: {{5+5}}</i></p><!-- expressões são escritas dentro de chaves duplas -->
+        <p>Nome: <input type="text" ng-model="nome"></p>
+        <p>{{nome}}</p>
+    </div>
+    <a href="expressoes.html">Próxima página</a>
+
+</body>
+</html>
